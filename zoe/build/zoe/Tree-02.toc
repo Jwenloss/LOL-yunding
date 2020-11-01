@@ -1,6 +1,10 @@
 ('D:\\game\\LOL\\yunding\\LOL-yunding\\zoe\\build\\zoe\\setuptools-40.8.0-py3.7.egg',
  None,
+<<<<<<< HEAD
  {'EGG-INFO', '*.pyc', '*.pyw', '*.cp37-win32.pyd', '*.py', '*.pyd'},
+=======
+ {'EGG-INFO', '*.pyc', '*.py', '*.cp37-win32.pyd', '*.pyw', '*.pyd'},
+>>>>>>> parent of 4627714... + 调参
  'DATA',
  [('setuptools\\cli-32.exe',
    'D:\\game\\LOL\\yunding\\LOL-yunding\\zoe\\build\\zoe\\setuptools-40.8.0-py3.7.egg\\setuptools\\cli-32.exe',
